@@ -1,0 +1,39 @@
+body {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+path.country {
+    stroke: black;
+}
+
+.div1 {
+    background: #4c4cff;
+    width: 65%;
+    height: 625px;
+}
+
+.div2 {
+    background: #ff0000;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+.label-text {
+    alignment-baseline: middle;
+    font-size: 12px;
+    font-family: arial, helvetica, "sans-serif";
+    fill: #393939;
+}
+
+.label-line {
+    stroke-width: 1;
+    /* stroke: #393939; */
+}
+
+.label-circle {
+    fill: #393939;
+}

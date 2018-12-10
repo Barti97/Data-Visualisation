@@ -1,0 +1,165 @@
+Russia 48.3
+Japan 20.5
+Fiji 8.8
+Vanuatu 8.1
+Solomon Islands 8.5
+Kiribati 25.9
+Papua New Guinea 10.2
+Indonesia 5.2
+New Zealand 17.3
+Australia 17.4
+Malysia 8.7
+Timor-Leste 9.0
+Philippines 5.2
+Republic of Korea 29.6
+Democratic People's Republic of Korea 14.8
+China 7.9
+Vietnam 10.8
+Cambodia 9.0
+Lao People's Democratic Republic 12.9
+Thailand 21.4
+Maldives 3.6
+Myanmar 6.3
+India 18.5
+Bangladesh 5.5
+Bhutan 13.8
+Nepal 11.4
+Sri Lanka 23.3
+Mongolia 23.3
+Kazakhstan 40.1
+Kyrgyzstan 14.8
+Tajikistan 5.0
+Pakistan 3.0
+Afghanistan 10.6
+Uzbekistan 10.3
+Turkmenistan 11.0
+Iran 4.9
+Iraq 4,7
+Oman 4.8
+Yemen 13.4
+United Arab Emirates 3.5 
+Qatar 7.3
+Bahrain 7.9
+Saudi Arabia 4.6
+Syria 3.8
+Jordan 4.7
+Lebanon 4.2
+Israel 8.2
+Turkey 11.3
+Azerbaijan 4.3
+Armenia 10.1
+Georgia 12.3 
+Cyrpus 7.2
+Greece 6.1
+Albania 7.0
+Macedonia 9.7
+Bulgaria 13.1
+Serbia 17.3
+Montenegro 12.6
+Romania 13.9
+Moldova 24.1
+Ukraine 34.5
+Belarus 39.3
+Lithuania 47.5
+Latvia 31.0
+Estonia 25.6
+Finland 20.8
+Sweden 15.8
+Norway 13.6
+Poland 23.9
+Slovakia 18.4
+Hungary 22.2
+Bosnia and Herzegovina 10.6
+Croatia 18.8
+Slovenia 22.4
+Austria 17.5
+Italy 8.4
+Switzerland 15.8
+Germany 13.6
+Denmark 13.2
+Netherlands 12.9
+Belgium 22.2
+France 17.9
+Spain 9.3
+Portugal 14.3
+United Kingdom 11.9
+Ireland 17.6
+Iceland 21.7
+Canada 15.1
+United States of America 21.1
+Mexico 8.2
+Bahamas 2.8
+Cuba 16.4
+Haiti 18.3
+Jamaica 3.2
+Dominican Republic 17.9
+Guatemala 4.4
+Honduras 5.3
+El Salvador 24.8
+Nicaragua 19.2
+Costa Rica 12.8
+Panama 7.6
+Colombia 11.5
+Venezuela 6.6
+Trinidad and Tobago 21.9
+Guyana 46.6
+Suriname 36.1
+Ecuador 10.7
+Peru 7.6
+Brazil 9.8
+Bolivia 16.9
+Paraguay 12.3
+Chile 16.0
+Argentina 15.0
+Uruguay 26.8
+Samoa 8.7
+Fiji 8.8 
+Tonga 5.2
+Kiribati 25.9
+Morocco 2.5
+Algeria 4.9
+Tunisia 4.4
+Libya 8.7
+Egypt 7.2
+Cabo Verde 24.1
+Mauritania 12.1
+Mali 13.5
+Niger 11.5 
+Chad 17.1 
+Sudan 14.5 
+Eritrea 22.4
+Somalia 11.5
+Ethopia 18.7
+Djibouti 11.9
+South Sudan 8.3
+Central African Republic 18.0
+Cameroon 26.9
+Nigeria 17.5
+Benin 22.6
+Togo 22.7
+Ghana 15.8 
+Côte d'Ivoire 32.0
+Liberia 13.8
+Sierra Leone 18.2
+Guinea 12.7
+Guinea-Bissau 8.9
+Senegal 20.3 
+Equatorial Guinea 31.3
+Gabon 15.0
+Congo 13.9
+Democratic Republic of the Congo 15.0
+Uganda 21.2
+Kenya 9.7
+United Republic of Tanzania 14.3
+Zambia 17.5
+Mozambique 14.0
+Angola 14.0
+Comoros 17.6
+Namibia 19.4
+Botswana 18.3
+Zimbabwe 29.1
+South Africa 21.7
+Eswatini 25.4
+Lesotho 22.7
+Madagascar 10.5
+Mauritius 12.5
